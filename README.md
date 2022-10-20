@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sad12 or @sad12x on github 
 - 👀 I’m interested in in proramming,hacking   
-- 🌱 I’m currently learning python,js and but also c,c#,goland but not heavily 
+- 🌱 I’m currently learning python,js but also c,c#,goland but not heavily 
 - 💞️ I’m not looking to collaborate on anything yet  
 - 📫 How to reach me ... none available now
 
