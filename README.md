@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sad12x
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @sad12 or @sad12x on github 
+- 👀 I’m interested in in proramming,hacking   
+- 🌱 I’m currently learning python,js and but also c,c#,goland but not heavily 
+- 💞️ I’m not looking to collaborate on anything yet  
+- 📫 How to reach me ... none available now
 
 <!---
 sad12x/sad12x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
